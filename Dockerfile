@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190425
 MAINTAINER zj1244
 ENV LC_ALL C.UTF-8
 ENV TZ=Asia/Shanghai
